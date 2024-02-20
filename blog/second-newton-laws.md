@@ -8,4 +8,25 @@ By "motion", Newton meant the quantity now called momentum, which depends upon t
 
 $$ p = mv $$
 
-![test](/assets/satelite.avif)
+![Sattelite](/assets/satelite.avif)
+
+1. One
+    - Apple
+    - Orange
+    - Grape
+2. Two
+    - Apple
+    - Orange
+    - Grape
+3. Three
+    - Apple
+    - Orange
+    - Grape
+
+- Javascript Code Example
+    ```javascript
+    function secondLaw(mass,velocity){
+        let momentum = mass*velocity
+        return momentum
+        }
+    ```
