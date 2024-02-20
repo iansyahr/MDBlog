@@ -1,7 +1,13 @@
 # MDBlog
-just simple Github Markdown to blog-like website converter using Deno Deploy or Cloudflare Workers
+just simple Markdown to Blog-like website converter
 
-# To-Do
+Markdown -> MDBlog Converter -> HTML & CSS
+
+## Feature
+- Support LaTex (using [KaTex](https://katex.org/))
+- Support code highlight (using [highlight.js](https://highlightjs.org/))
+
+## To-Do
 idk, let me cooking first
 
 ![letmecookforyou](assets/lethimcook.avifs)
