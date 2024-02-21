@@ -4,7 +4,7 @@ just simple Markdown to Blog-like website converter
 Markdown -> MDBlog Converter -> HTML & CSS
 
 ## Feature
-- Support LaTex (using [KaTex](https://katex.org/))
+- Support LaTeX (using [KaTeX](https://katex.org/))
 - Support code highlight (using [highlight.js](https://highlightjs.org/))
 
 ## To-Do
