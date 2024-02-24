@@ -8,7 +8,7 @@ By "motion", Newton meant the quantity now called momentum, which depends upon t
 
 $$ p = mv $$
 
-![Sattelite](/assets/satelite.avif)
+![Sattelite](https://raw.githubusercontent.com/iansyahr/MDBlog/main/blog/assets/satelite.avif)
 
 1. One
     - Apple
