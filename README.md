@@ -1,4 +1,4 @@
-# MDBlog
+# [WIP] MDBlog
 just simple Markdown to Blog-like website converter
 
 Markdown -> MDBlog Converter -> HTML & CSS
